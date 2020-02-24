@@ -1,0 +1,70 @@
+Entered into main() method
+
+To find Simple Interest:
+
+Entered into calculateSimpleInterest() method of APP.JAVA class
+
+Enter the principal amount : 
+Enetr the Rate of Interest : 
+Enter the Time period(in years) : 
+Entered into getSimpleInterest() method of SimpleInterest.java class
+
+Exited from getSimpleInterest() method of SimpleInterest.java class
+
+Exited from calculateSimpleInterest() method of APP.JAVA class
+
+Simple interest is : 800.0
+
+To find Compound Interest:
+
+Entered into calculateCompoundInterest() method of APP.JAVA class
+
+Enter the principal amount : 
+Enter the Rate of Interest : 
+Enter the Time period(in years) : 
+Enter the no. of times the interest is compounded per unit time : 
+Entered into getCompoundInterest() method of CompoundInterest.java class
+
+Exited from getCompoundInterest() method of CompoundInterest.java class
+
+Exited from calculateCompoundInterest() method of APP.JAVA class
+
+
+Compound Interest after 2.0 years is : 80000.0 (without principal amount)
+
+To find House Construction Cost : 
+
+Entered into findConstructionCost method() of APP.JAVA class
+
+Choose a Standard of material to be used for House Construction from the following : 
+
+1. Standard Materials.
+2. Above Standard Materials
+3. High Standard Materials
+4. High Standard AMterial and Fully Automated House.
+
+Enter a valid Choice : 
+
+Try Again!!!!....
+Choose a Standard of material to be used for House Construction from the following : 
+
+1. Standard Materials.
+2. Above Standard Materials
+3. High Standard Materials
+4. High Standard AMterial and Fully Automated House.
+
+Enter a valid Choice : 
+Enter the total Area of house in square feet :
+Entered into calculateCost() method of ConstructionCost.java class
+
+Entered into getCostPerFeet() method of ConstructionCost.java class
+
+Exited from getComstPerFeet() method of ConstructionCost.java class
+
+Exited from calculateCost() method of ConstructionCost.java class
+
+Exited from  method findConstructionCost() of APP.JAVA class
+
+Total Construction Cost of House according to given details : 387500.0INR
+
+Exited from main() method
